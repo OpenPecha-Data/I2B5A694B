@@ -1,0 +1,16 @@
+id: I2B5A694B
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 15:05:09.452766
+last_modified: 2023-02-09 15:05:09.452893
+source_metadata:
+  title: 'MSV 1,05: Carmavastu'
+  language: bo
+bases:
+  BF64:
+    base_file: BF64.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
